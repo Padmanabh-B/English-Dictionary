@@ -36,3 +36,4 @@ i used free `dictionary api` for searching the words, it gives the results of th
 <img align="center"  width="24px" src="./readme_assets/findcoder.png" /> [Findcoder](https://www.findcoder.io/u/padmanabh_b)
 
 # Deployed Link
+[Visit My Dictonary](https://dictory-english.netlify.app/)
